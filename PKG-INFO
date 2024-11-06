@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: haofs
+Version: 0.4.9
+Summary: 好分数(https://www.haofenshu.com/)爬虫
+Home-page: https://github.com/Danny-Yxzl/haofs
+Author: Yixiangzhilv
+Author-email: mail@yixiangzhilv.com
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/Danny-Yxzl/haofs/issues
+Project-URL: Say Thanks!, https://www.yixiangzhilv.com/
+Project-URL: Source, https://github.com/Danny-Yxzl/haofs
+Keywords: API sdk spider
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+
+UNKNOWN
+
